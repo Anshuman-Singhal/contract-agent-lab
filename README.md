@@ -69,5 +69,4 @@ No real contracts, no real model judgments, no precision/recall numbers that
 mean anything beyond this fixture set. It is a structure demo: the loop,
 the playbook, and the eval harness are the point.
 
-Built by Anshuman Singhal, October 2026, as a weekend project alongside a
-recruiting conversation with Crosby.
+I built this 4th October 2026, as a weekend project.
